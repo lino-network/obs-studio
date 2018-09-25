@@ -1269,7 +1269,7 @@
             ]
         },
         {
-            "name": "Dlive",
+            "name": "DLive",
             "servers": [
                 {
                     "name": "Default",
@@ -1277,7 +1277,9 @@
                 }
             ],
             "recommend": {
-                "keyint": 2
+                "keyint": 2,
+                "max video bitrate": 6000,
+                "max audio bitrate": 160
             }
         }
 		
