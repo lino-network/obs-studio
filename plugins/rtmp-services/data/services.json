@@ -1259,7 +1259,7 @@
                 "max audio bitrate": 128
             }
         },
-	    {
+        {
             "name": "Vimm.TV",
             "servers": [
                 {
