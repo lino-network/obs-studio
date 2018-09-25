@@ -1273,7 +1273,7 @@
             "servers": [
                 {
                     "name": "Default",
-                    "url": "rtmp://stream.dlive.io/live"
+                    "url": "rtmp://stream.dlive.tv/live"
                 }
             ],
             "recommend": {
